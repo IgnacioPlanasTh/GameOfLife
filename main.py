@@ -14,7 +14,7 @@ width, height = 1000,1000
 screen= pygame.display.set_mode((height,width))
 
 bg =25,25,25
-#pinatmos el fondo con el color elegido
+#pintamos el fondo con el color elegido
 screen.fill(bg)
 
 #dimensiones de las celdas
